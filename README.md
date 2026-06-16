@@ -5,7 +5,8 @@ A low-level MicroPython BLE UART peripheral manager inspired by the official [bl
 >This library was created using MicroPython V1.28.0
 
 # Features
-
+- I've tested this using Android, not sure if it works on Iphone
+- 
 # About this repository
 This repository contains the following:
 - lib/
