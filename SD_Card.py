@@ -7,7 +7,7 @@
 # Handles SD card SPI setup, card detection, mounting,
 # unmounting, safe file writes, and shared SD access state.
 #
-# This file is part of Sophia J Anderson's Bumble Bee Transport Unit project
+# This file is part of Sophia J Anderson's & Nolan Hoffs environmental monitoring project.
 
 from machine import Pin, SPI
 import sdcard
