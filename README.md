@@ -8,6 +8,15 @@ A low-level MicroPython BLE UART peripheral manager inspired by the official [bl
 # Bluetooth Data Collection - SOP
 Before starting, ensure the **Bluetooth library is installed on the Pico Pi W** and that your main script includes the required Bluetooth initialization lines.
 
+
+# Project Structure
+```
+lib/
+| - 
+|
+|
+```
+
 ## Step 1:
 Download **Serial Bluetooth Terminal** from the App Store.
 
@@ -113,14 +122,5 @@ ble_mgr = BLEManager(spi, cs, file_passwords)
                 ble_mgr.update()  # This handles file transfers 
             except Exception as e: 
                 log_sensor_error("BLE_UPDATE", e, context="main_loop")         
-```
-
-
-# Project Structure
-```
-lib/
-| - 
-|
-|
 ```
 
