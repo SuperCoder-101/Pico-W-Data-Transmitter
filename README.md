@@ -20,7 +20,7 @@ Download **Serial Bluetooth Terminal** from the App Store.
 Open **Serial Bluetooth Terminal.**
 
 ## Step 3:
-Tap the **three-line menu** (hamburger looking) in the upper-left corner.
+Tap the **three-line menu** in the upper-left corner.
 
 <img width="442" height="384" alt="image" src="https://github.com/user-attachments/assets/8e7ead4a-1c5c-49ad-b3a8-2294bd71182e" />
 
