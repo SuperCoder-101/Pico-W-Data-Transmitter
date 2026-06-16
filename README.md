@@ -18,7 +18,8 @@ lib/
 ```
 
 ## Step 1:
-Download **Serial Bluetooth Terminal** from the App Store.
+Download **Serial Bluetooth Terminal** from the App Store. 
+This is free!
 
 <img width="425" height="401" alt="image" src="https://github.com/user-attachments/assets/04ed6f6e-0f91-4072-821e-550ec6e3f1ca" />
 
