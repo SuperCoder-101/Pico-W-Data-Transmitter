@@ -9,8 +9,7 @@
 # offsets, prints formatted sensor readings, and returns data
 # for logging.
 #
-# This file is part of Sophia J Anderson's environmental
-# monitoring project.
+# This file is part of Sophia J Anderson's & Nolan Hoffs environmental monitoring project.
 
 import time
 from machine import Pin, I2C
