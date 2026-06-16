@@ -1,5 +1,5 @@
 # Pico-W-Data-Transmitter
-A low-level MicroPython BLE UART peripheral manager inspired by the official **ble_simple_peripheral.py** example, with aioble-style organization, plus SD-card-backed command/file transfer logic.
+A low-level MicroPython BLE UART peripheral manager inspired by the official [ble_simple_peripheral.py](https://github.com/micropython/micropython/blob/master/examples/bluetooth/ble_simple_peripheral.py) example, with aioble-style organization, plus SD-card-backed command/file transfer logic.
 
 >[!Note]
 >This library was created using MicroPython V1.28.0
